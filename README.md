@@ -3,7 +3,11 @@
   <img src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg" alt="pasindu-sd" />
 </p>
 
-    My notes on Cybersecurity, Linux, Ethical Hacking, and Tools
+    | My notes on Cybersecurity, Linux, Ethical Hacking, and Tools |
+    
+    🔐 Ethics Reminder/
+          |- For educational purposes only 
+          |- Never attack systems without explicit permission
 
 # 🔐 Cybersecurity Notes by Pasindu
 
