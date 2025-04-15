@@ -1,5 +1,10 @@
-# Cybersecurity-Notes
- My notes on Cybersecurity, Linux, Ethical Hacking, and Tools
+# Cybersecurity-Notes 
+<p align="right">
+  <img src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg" alt="pasindu-sd" />
+</p>
+
+    My notes on Cybersecurity, Linux, Ethical Hacking, and Tools
+
 # 🔐 Cybersecurity Notes by Pasindu
 
 ## 📅 Week 1 - Introduction to Cybersecurity
