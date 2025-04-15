@@ -30,6 +30,15 @@
 
 ---
 
+## 📅 Week 3 - Ethical Hacking & Metasploit Framework
+- Introduced to the Metasploit Framework and its components.
+- Learned how to search for exploits and configure payloads and listeners.
+- Practiced using `msfconsole` for launching exploits.
+- TryHackMe: Completed the "Metasploit" room.
+- Set up a vulnerable environment using DVWA for hands-on practice.
+
+---
+
 ## 🧠 Learning Tools:
 
 - TryHackMe  
@@ -41,4 +50,5 @@
 ## 📚 Weekly Notes
 - [Week 1 - Introduction to Cybersecurity](week-01.md)
 - [Week 2 - Linux & Networking Basics](week-02.md)
+- [Week 3 - Ethical Hacking & Metasploit Framework](week-02.md)
 
