@@ -29,4 +29,11 @@
 
 - TryHackMe  
 - OverTheWire Bandit Challenges  
-- Kali Linux Terminal  
+- Kali Linux Terminal
+
+---
+
+## 📚 Weekly Notes
+- [Week 1 - Introduction to Cybersecurity](week-01.md)
+- [Week 2 - Linux & Networking Basics](week-02.md)
+
