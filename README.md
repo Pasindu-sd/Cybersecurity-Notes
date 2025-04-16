@@ -34,7 +34,15 @@
 
 ---
 
-## 📅 Week 3 - Ethical Hacking & Metasploit Framework
+## 📅 Week 3 - Nmap , Wiershark & Metasploit Framework
+- Learned basic networking concepts: IP address, Ports, Protocols, and Subnets.
+- Understood how Nmap is used for network scanning:
+  - Performed host discovery and port scanning using `-sS`, `-sV`, `-A`, `-O`.
+  - Explored Nmap scripting engine for vulnerability scanning.
+- Used Wireshark to analyze HTTP traffic and packet-level data.
+- TryHackMe Rooms:
+  - Completed "Network Fundamentals"
+  - Completed "Nmap"
 - Introduced to the Metasploit Framework and its components.
 - Learned how to search for exploits and configure payloads and listeners.
 - Practiced using `msfconsole` for launching exploits.
