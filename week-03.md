@@ -1,6 +1,20 @@
-# Week 03 - Ethical Hacking & Metasploit Framework
+# Week 03 - Nmap , Wiershark & Metasploit Framework
 
-## 🧠 Topics Covered
+## 🎯 Learning Objectives (Nmap , Wireshark):
+1. Understand basic networking: IP Addresses, Ports, Protocols, Subnets
+2. Perform network scanning using Nmap
+3. Complete TryHackMe rooms on "Network Fundamentals" and "Nmap"
+4. Wireshark Basics and Packet Analysis
+
+## 💡 Key Notes:
+
+1. Use `nmap` to perform host discovery:
+   ```bash
+   nmap -sn 192.168.1.1/24
+
+---
+
+## 🧠 Topics Covered (Metasploit)
 - **Metasploit Framework Introduction**
   - Understanding the purpose and structure of Metasploit.
   - Navigating `msfconsole` and its modules.
