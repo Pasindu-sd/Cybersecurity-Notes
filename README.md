@@ -52,7 +52,7 @@
 
 ---
 
-## 📅 Week 4 Summary
+## 📅 Week 4 - Python, Port Scanner & Password Cracker
 
 - Python basics: variables, loops, functions.
 - Basic Socket Programming.
