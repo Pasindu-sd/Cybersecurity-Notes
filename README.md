@@ -35,6 +35,7 @@
 ---
 
 ## 📅 Week 3 - Nmap , Wiershark & Metasploit Framework
+
 - Learned basic networking concepts: IP address, Ports, Protocols, and Subnets.
 - Understood how Nmap is used for network scanning:
   - Performed host discovery and port scanning using `-sS`, `-sV`, `-A`, `-O`.
@@ -48,6 +49,21 @@
 - Practiced using `msfconsole` for launching exploits.
 - TryHackMe: Completed the "Metasploit" room.
 - Set up a vulnerable environment using DVWA for hands-on practice.
+
+---
+
+## 📅 Week 4 Summary
+
+- Python basics: variables, loops, functions.
+- Basic Socket Programming.
+- How to build a Port Scanner.
+- Password Checker (Brute Force simulation).
+- TryHackMe: Python for Pentesters module.
+
+### Tools used:
+- Python 3.12
+- VS Code
+- GitHub
 
 ---
 
