@@ -1,0 +1,69 @@
+variable type|
+	string
+	float
+	int
+
+int to float 
+		float(x)	: x is a integer variable
+float to int
+		int(x)		: x is a float variable
+
+eval : string to float or int 
+
+comment use in - #
+
+
+data list (array)
+	name.append("pasindu")  	:: pasindu will be add end of the data list
+	name.insert(0, "sandeepa") 	:: sandeepa will be add start of the data list
+	name.pop(1)     		:: 1 position data is deleted
+	len(name)			:: count of element in data list
+
+
+~
+	name = "pasindu"
+	age = 17
+	if name == "pasindu" and age == 17 :
+		print("hi pasindu")
+	else :
+		print("go away")
+~
+
+~
+if:
+elif:
+else:
+~
+
+cal oparations 
+	/,*,-,+,**,%
+
+if name is a string;
+	name.count("l")	:: give how many times 'l' in the string
+	name[3:12]	:: it showing index 3 to 12
+
+~
+for loop
+	number = [1,2,3]
+	for x in number:
+		print(x)
+
+			=> 1
+			=> 2
+			=> 3
+
+(we can use like as number = range(3))
+~
+
+~
+while loop
+	while age < 10 and age > 20:
+		<statment>
+~
+
+i learned functions
+	def <function_name>
+
+
+
+
