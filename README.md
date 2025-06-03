@@ -67,11 +67,14 @@
 
 ---
 
-## 🧠 Learning Tools:
+## 📅 Week 5 – OWASP Top 10, SQL Injection, Burp Suite & Web App Security
 
-- TryHackMe  
-- OverTheWire Bandit Challenges  
-- Kali Linux Terminal
+- ✳️ Studied the OWASP Top 10 vulnerabilities list.
+- ✳️ Practiced SQL Injection basics and manual testing.
+- ✳️ Learned and used Burp Suite for intercepting and testing HTTP requests.
+- ✳️ Understood XSS (Cross-Site Scripting) with examples.
+- ✳️ Completed OWASP Top 10 room on TryHackMe.
+- ✳️ Set up and practiced with DVWA (Damn Vulnerable Web Application).
 
 ---
 
@@ -80,4 +83,5 @@
 - [Week 2 - Linux & Networking Basics](week-02.md)
 - [Week 3 - Ethical Hacking & Metasploit Framework](week-03.md)
 - [Week 4 - Python, Port Scanner & Password Cracker](week-04.md)
+- [Week 5 - Web Application Security](week-05.md)
 
