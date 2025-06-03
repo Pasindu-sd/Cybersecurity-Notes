@@ -1,4 +1,4 @@
-# Week 05 – Web Application Security
+# Week 5 – Web Application Security
 
 ## 🔸 OWASP Top 10 Vulnerabilities + SQL Injection
 - Reviewed the **OWASP Top 10** common web application vulnerabilities.
