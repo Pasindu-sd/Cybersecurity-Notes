@@ -78,10 +78,32 @@
 
 ---
 
+## 📅 Week 6 -   Active Directory Hacking
+**Core Concepts Covered:**
+- ✅ **AD Fundamentals**  
+  Domain structure, DC roles, OUs, and GPOs
+- ✅ **Credential Attacks**  
+  Mimikatz for LSASS dumping & golden ticket attacks
+- ✅ **Enumeration Tools**  
+  BloodHound for path visualization and attack mapping
+- ✅ **Privilege Escalation**  
+  Kerberoasting and ACL-based attacks
+- ✅ **Defense Evasion**  
+  OPSEC considerations for red team operations
+
+### Tools Used
+- Mimikatz
+- BloodHound
+- PowerView
+- Impacket
+
+---
+
 ## 📚 Weekly Notes
 - [Week 1 - Introduction to Cybersecurity](week-01.md)
 - [Week 2 - Linux & Networking Basics](week-02.md)
 - [Week 3 - Ethical Hacking & Metasploit Framework](week-03.md)
 - [Week 4 - Python, Port Scanner & Password Cracker](week-04.md)
 - [Week 5 - Web Application Security](week-05.md)
+- [Week 6 - Active Directory Hacking](week-06.md)
 
