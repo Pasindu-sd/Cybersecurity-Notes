@@ -99,6 +99,21 @@
 
 ---
 
+## 📅 Week 7 - Advanced Web Hacking (OWASP Top 10 Advanced)
+- Focused on advanced web vulnerabilities: CSRF, SSRF, XXE.
+- Used Burp Suite Intruder & Repeater for hands-on exploitation.
+- Completed TryHackMe Web Security Room.
+- Learned about bypassing filters, crafting payloads, and real-world attack scenarios.
+- Gained practical experience with DVWA vulnerable endpoints.
+
+### Tools Used
+- Burp Suite Community Edition
+- DVWA
+- TryHackMe
+- PortSwigger Web Security Academy
+
+---
+
 ## 📚 Weekly Notes
 - [Week 1 - Introduction to Cybersecurity](week-01.md)
 - [Week 2 - Linux & Networking Basics](week-02.md)
@@ -106,4 +121,5 @@
 - [Week 4 - Python, Port Scanner & Password Cracker](week-04.md)
 - [Week 5 - Web Application Security](week-05.md)
 - [Week 6 - Active Directory Hacking](week-06.md)
+- [Week 7 - Advanced Web Hacking (OWASP Top 10 Advanced)](week-07.md)
 
