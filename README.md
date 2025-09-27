@@ -94,7 +94,6 @@
 ### Tools Used
 - Mimikatz
 - BloodHound
-- PowerView
 - Impacket
 
 ---
