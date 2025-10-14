@@ -16,6 +16,33 @@ This week focuses on Advanced Nmap Features (NSE), Deep Traffic Analysis with Wi
 
 ## Nmap Script Engine
 
+### Basic NSE Usage
+```
+# Default scripts
+nmap -sC target.com
+
+# Specific script categories
+nmap --script vuln 192.168.1.1
+nmap --script safe 10.0.0.1
+nmap --script discovery target.com
+
+# Multiple script categories
+nmap --script "vuln and safe" target.com
+```
+
+### Advanced NSE
+```
+# Update NSE scripts
+nmap --script-updatedb
+
+# Run specific script
+nmap --script http-title target.com
+nmap --script ssl-enum-ciphers target.com
+
+# Debug scripts
+nmap --script-trace target.com
+```
+
 ---
 
 ## Wireshark 
