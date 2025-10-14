@@ -14,6 +14,20 @@ This week focuses on Advanced Nmap Features (NSE), Deep Traffic Analysis with Wi
 
 ---
 
+## Nmap Script Engine
+
+---
+
+## Wireshark 
+
+### Core Features
+- Packet Analyzer: Capture and inspect network traffic in real-time
+- Protocol Support: HTTP, DNS, TCP, UDP, and 1000+ protocols
+- Live Capture: Monitor active network interfaces
+- Filter System: Isolate specific traffic patterns
+
+---
+
 ## 📌 Key Achievements:
 
 - **Automated Scanning:** Mastered the Nmap Scripting Engine (NSE) to automate vulnerability detection and information gathering.
