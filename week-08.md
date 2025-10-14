@@ -26,6 +26,14 @@ This week focuses on Advanced Nmap Features (NSE), Deep Traffic Analysis with Wi
 - Live Capture: Monitor active network interfaces
 - Filter System: Isolate specific traffic patterns
 
+### Essential Filters
+  http                    # HTTP traffic
+  dns                     # DNS queries
+  ip.addr == 192.168.1.1  # Specific IP
+  tcp.port == 80          # Port filtering
+  http.request            # HTTP requests only
+  http.host contains "google.com"  # Specific domain
+  
 ---
 
 ## 📌 Key Achievements:
