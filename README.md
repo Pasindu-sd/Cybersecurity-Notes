@@ -113,6 +113,19 @@
 
 ---
 
+## 📅 Week 8 - NSE, Wireshark, MITM Attacks
+- Nmap Scripting Engine (NSE) Usage
+- Wireshark: Deep Traffic Analysis
+- Man-in-the-Middle (MITM) Attacks on Networks
+- TryHackMe "Network Security" Room Challenges
+- Practical Exercise: Network Testing and Analysis
+
+### Tools Used
+- Nmap
+- Wireshark
+
+---
+
 ## 📚 Weekly Notes
 - [Week 1 - Introduction to Cybersecurity](week-01.md)
 - [Week 2 - Linux & Networking Basics](week-02.md)
