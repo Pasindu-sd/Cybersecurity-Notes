@@ -30,7 +30,7 @@
   - Read (`r`), Write (`w`), Execute (`x`)
 - Basic Networking Concepts:
   - IP address, MAC address, DNS, and Gateway
-- TryHackMe: Complete "Linux Fundamentals Part 1" ✅
+- TryHackMe: Complete "Linux Fundamentals Part 1"
 
 ---
 
