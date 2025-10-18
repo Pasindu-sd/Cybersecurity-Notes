@@ -69,26 +69,26 @@
 
 ## 📅 Week 5 – OWASP Top 10, SQL Injection, Burp Suite & Web App Security
 
-- ✳️ Studied the OWASP Top 10 vulnerabilities list.
-- ✳️ Practiced SQL Injection basics and manual testing.
-- ✳️ Learned and used Burp Suite for intercepting and testing HTTP requests.
-- ✳️ Understood XSS (Cross-Site Scripting) with examples.
-- ✳️ Completed OWASP Top 10 room on TryHackMe.
-- ✳️ Set up and practiced with DVWA (Damn Vulnerable Web Application).
+- Studied the OWASP Top 10 vulnerabilities list.
+- Practiced SQL Injection basics and manual testing.
+- Learned and used Burp Suite for intercepting and testing HTTP requests.
+- Understood XSS (Cross-Site Scripting) with examples.
+- Completed OWASP Top 10 room on TryHackMe.
+- Set up and practiced with DVWA (Damn Vulnerable Web Application).
 
 ---
 
 ## 📅 Week 6 -   Active Directory Hacking
 **Core Concepts Covered:**
-- ✅ **AD Fundamentals**  
+- **AD Fundamentals**  
   Domain structure, DC roles, OUs, and GPOs
-- ✅ **Credential Attacks**  
+- **Credential Attacks**  
   Mimikatz for LSASS dumping & golden ticket attacks
-- ✅ **Enumeration Tools**  
+- **Enumeration Tools**  
   BloodHound for path visualization and attack mapping
-- ✅ **Privilege Escalation**  
+- **Privilege Escalation**  
   Kerberoasting and ACL-based attacks
-- ✅ **Defense Evasion**  
+- **Defense Evasion**  
   OPSEC considerations for red team operations
 
 ### Tools Used
