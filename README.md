@@ -133,5 +133,5 @@
 - [Week 5 - Web Application Security](week-05.md)
 - [Week 6 - Active Directory Hacking](week-06.md)
 - [Week 7 - Advanced Web Hacking (OWASP Top 10 Advanced)](week-07.md)
-- [Week 8 - NSE, Wireshark, MITM Attacks](week-8.md)
+- [Week 8 - NSE, Wireshark, MITM Attacks](week-08.md)
 
