@@ -79,7 +79,6 @@
 ---
 
 ## 📅 Week 6 -   Active Directory Hacking
-**Core Concepts Covered:**
 - **AD Fundamentals**  
   Domain structure, DC roles, OUs, and GPOs
 - **Credential Attacks**  
