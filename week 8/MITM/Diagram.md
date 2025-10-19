@@ -1,7 +1,6 @@
 <!-- ===== MITM Diagram (Mermaid) ===== -->
 ### MITM Diagram
 
-```mermaid
 flowchart LR
   Client["Client\n(192.168.1.100)"]
   Router["Router / Gateway\n(192.168.1.1)"]
