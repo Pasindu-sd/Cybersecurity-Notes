@@ -42,7 +42,7 @@ nmap --script ssl-enum-ciphers target.com
 # Debug scripts
 nmap --script-trace target.com
 ```
-
+- [Simple Script Here](week%208/NSE%20Scripts/)
 ---
 
 ## Wireshark 
