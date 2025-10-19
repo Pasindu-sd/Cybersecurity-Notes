@@ -79,7 +79,7 @@ nmap --script-trace target.com
 - **Rogue Wi-Fi / Evil Twin access points** — attacker runs a fake network to capture traffic.  
 - **TLS/SSL downgrade & stripping** — forcing unencrypted connections or intercepting weakly protected channels.  
 - **Man-in-the-Browser / proxying** — malware or an intercepting proxy modifies traffic inside the client.
-- [MITM Diagram](week%28/MITM/Diagram.md)
+- [MITM Diagram](week%208/MITM/Diagram.md)
 ### Realistic Impacts
 - Credential theft (logins, cookies, tokens).  
 - Data exposure (plain HTTP, misconfigured TLS).  
