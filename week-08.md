@@ -71,6 +71,27 @@ nmap --script-trace target.com
 
 ---
 
+## Man-In-The-Middle (MITM)
+
+### Common MITM Techniques
+- **ARP spoofing / ARP poisoning** — corrupting local IP→MAC mappings so traffic is routed via the attacker.  
+- **DNS spoofing / DNS cache poisoning** — returning malicious IPs for legitimate hostnames.  
+- **Rogue Wi-Fi / Evil Twin access points** — attacker runs a fake network to capture traffic.  
+- **TLS/SSL downgrade & stripping** — forcing unencrypted connections or intercepting weakly protected channels.  
+- **Man-in-the-Browser / proxying** — malware or an intercepting proxy modifies traffic inside the client.
+
+### Realistic Impacts
+- Credential theft (logins, cookies, tokens).  
+- Data exposure (plain HTTP, misconfigured TLS).  
+- Transaction manipulation (financial fraud) and session hijacking. :contentReference[oaicite:3]{index=3}
+
+### Detection Signs (what to look for)
+- Browser TLS/Certificate warnings (unexpected certificate changes).  
+- Duplicate IP / conflicting MAC addresses in the LAN (`arp -a` or `ip neigh show`).  
+- Unexpected redirects or DNS replies that return suspicious IPs.
+
+---
+
 ## Key Achievements:
 
 - **Automated Scanning:** Mastered the Nmap Scripting Engine (NSE) to automate vulnerability detection and information gathering.
