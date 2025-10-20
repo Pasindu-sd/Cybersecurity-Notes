@@ -20,6 +20,17 @@ This week focuses on Basic SIEM(Security Information and Event Management)
 - Security use cases & threat detection
 
 ---
-```
-                                                                        comming soon
-```
+
+### Splunk Skills
+- SPL (Search Processing Language)
+- Data onboarding & field extraction
+- Enterprise Security (ES) app
+- Correlation searches & dashboards
+
+### ELK Stack Skills
+- Elasticsearch, Logstash, Kibana setup
+- Beats for data collection
+- KQL (Kibana Query Language)
+- Elastic Security detections
+
+---
