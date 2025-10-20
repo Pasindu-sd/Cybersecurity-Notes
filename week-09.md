@@ -20,7 +20,7 @@ This week focuses on Basic SIEM(Security Information and Event Management)
 - Security use cases & threat detection
 
 ---
-*Cybersecurity SIEM Specialization - Hands-on approach for SOC roles*
+
 ### Splunk Skills
 - SPL (Search Processing Language)
 - Data onboarding & field extraction
@@ -34,3 +34,5 @@ This week focuses on Basic SIEM(Security Information and Event Management)
 - Elastic Security detections
 
 ---
+
+*Cybersecurity SIEM Specialization - Hands-on approach for SOC roles*
