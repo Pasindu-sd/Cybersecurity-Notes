@@ -26,6 +26,7 @@ This week focuses on Basic SIEM(Security Information and Event Management)
 - Data onboarding & field extraction
 - Enterprise Security (ES) app
 - Correlation searches & dashboards
+    - [Resources File](week%209/Splunk%20Sample%20img)
 
 ### ELK Stack Skills
 - Elasticsearch, Logstash, Kibana setup
