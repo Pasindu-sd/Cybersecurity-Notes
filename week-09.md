@@ -33,6 +33,7 @@ This week focuses on Basic SIEM(Security Information and Event Management)
 - Beats for data collection
 - KQL (Kibana Query Language)
 - Elastic Security detections
+    - [Resources File](week%209/ELK%20Stack%20img)
 
 ---
 
