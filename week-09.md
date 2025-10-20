@@ -1,4 +1,5 @@
-# 🛡️ SIEM Basic
+# 🛡️ SIEM Learning Path - Splunk & ELK Stack
+
 ## Overview:
 This week focuses on Basic SIEM(Security Information and Event Management) 
 
@@ -13,7 +14,12 @@ This week focuses on Basic SIEM(Security Information and Event Management)
 
 ---
 
+### Core SIEM Concepts
+- SIEM architecture & fundamentals
+- Log management & correlation rules
+- Security use cases & threat detection
 
+---
 ```
                                                                         comming soon
 ```
