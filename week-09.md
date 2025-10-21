@@ -47,4 +47,11 @@ Critical Event IDs to Monitor:
 - 7045 - New service installed
 - 4688 - New process created
 
+Security Use Cases:
+- Brute force attack detection
+- Account lockout analysis
+- Privilege escalation monitoring
+
+---
+
 *Cybersecurity SIEM Specialization - Hands-on approach for SOC roles*
