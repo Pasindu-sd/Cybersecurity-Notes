@@ -37,4 +37,14 @@ This week focuses on Basic SIEM(Security Information and Event Management)
 
 ---
 
+### Windows Event Logs Analysis
+Critical Event IDs to Monitor:
+- 4624 - Successful logon
+- 4625 - Failed logon
+- 4648 - Logon with explicit credentials
+- 4720 - User account created
+- 4732 - Member added to security group
+- 7045 - New service installed
+- 4688 - New process created
+
 *Cybersecurity SIEM Specialization - Hands-on approach for SOC roles*
