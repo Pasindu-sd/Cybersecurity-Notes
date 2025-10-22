@@ -125,6 +125,10 @@
 
 ---
 
+## 📅 Week - SIEM, Windows and Linux Event Logs Analysis, Wazuh (OSSEC)
+
+---
+
 ## 📚 Weekly Notes
 - [Week 1 - Introduction to Cybersecurity](week-01.md)
 - [Week 2 - Linux & Networking Basics](week-02.md)
