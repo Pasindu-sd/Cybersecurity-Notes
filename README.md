@@ -125,7 +125,7 @@
 
 ---
 
-## 📅 Week - SIEM, Windows and Linux Event Logs Analysis, Wazuh (OSSEC)
+## 📅 Week 9 - SIEM, Windows and Linux Event Logs Analysis, Wazuh (OSSEC)
 
 ---
 
