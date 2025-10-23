@@ -60,6 +60,11 @@ Critical Log Files & Analysis:
 - ```/var/log/syslog``` - System-wide events
 - ```/var/log/secure``` - Security-related events (RHEL/CentOS)
 
+Key Security Monitoring:
+- SSH brute force attacks detection
+- Failed login attempts analysis
+- sudo command monitoring
+
 ---
 
 *Cybersecurity SIEM Specialization - Hands-on approach for SOC roles*
