@@ -67,12 +67,11 @@ Key Security Monitoring:
 
 Essential Linux Commands:
 ```
-_# SSH failure analysis_
-grep "Failed password" /var/log/auth.log
-# Successful logins
-grep "Accepted" /var/log/auth.log
-# sudo privilege escalation
-grep "sudo" /var/log/auth.log
+grep "Failed password" /var/log/auth.log                # SSH failure analysis
+
+grep "Accepted" /var/log/auth.log                       # Successful logins
+
+grep "sudo" /var/log/auth.log                           # sudo privilege escalation
 ```
 ---
 
