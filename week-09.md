@@ -54,4 +54,10 @@ Security Use Cases:
 
 ---
 
+### Linux Logs Analysis(Syslog, Auth.log) 
+Critical Log Files & Analysis:
+- ```/var/log/auth.log``` - Authentication & SSH events
+- ```/var/log/syslog``` - System-wide events
+- ```/var/log/secure``` - Security-related events (RHEL/CentOS)
+
 *Cybersecurity SIEM Specialization - Hands-on approach for SOC roles*
