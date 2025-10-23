@@ -67,7 +67,7 @@ Key Security Monitoring:
 
 Essential Linux Commands:
 ```
-# SSH failure analysis
+_# SSH failure analysis_
 grep "Failed password" /var/log/auth.log
 # Successful logins
 grep "Accepted" /var/log/auth.log
