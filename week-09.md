@@ -65,6 +65,15 @@ Key Security Monitoring:
 - Failed login attempts analysis
 - sudo command monitoring
 
+Essential Linux Commands:
+```
+# SSH failure analysis
+grep "Failed password" /var/log/auth.log
+# Successful logins
+grep "Accepted" /var/log/auth.log
+# sudo privilege escalation
+grep "sudo" /var/log/auth.log
+```
 ---
 
 *Cybersecurity SIEM Specialization - Hands-on approach for SOC roles*
