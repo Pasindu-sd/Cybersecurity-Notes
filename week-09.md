@@ -1,4 +1,4 @@
-# 🛡️ SIEM Learning Path - Splunk & ELK Stack
+# 🛡️ SIEM Learning Path, Windows Event Logs Analysis, Linux Logs Analysis, Wazuh (OSSEC)
 
 ## Overview:
 This week focuses on Basic SIEM(Security Information and Event Management) 
