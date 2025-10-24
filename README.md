@@ -128,8 +128,8 @@
 ## 📅 Week 9 - SIEM, Windows and Linux Event Logs Analysis, Wazuh (OSSEC)
 - SIEM architecture & fundamentals(Splunk & ELK Stack)
 - Windows Event Logs Analysis
-- Linux Log Analysis
-- Wazuh (OSSEC)
+- Linux log analysis (/var/log/auth.log, /var/log/syslog) and useful grep/journalctl commands
+- Wazuh (OSSEC) installation, agent/server testing, and alert verification
 
 ---
 
