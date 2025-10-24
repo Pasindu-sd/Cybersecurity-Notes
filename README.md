@@ -131,6 +131,11 @@
 - Linux log analysis (/var/log/auth.log, /var/log/syslog) and useful grep/journalctl commands
 - Wazuh (OSSEC) installation, agent/server testing, and alert verification
 
+Expected Outcomes
+ - Understand basic SIEM workflows and data flow.
+ - Able to analyze Windows and Linux logs for common security events.
+ - Successfully install and test Wazuh agents and verify alerts.
+
 ---
 
 ## 📚 Weekly Notes
