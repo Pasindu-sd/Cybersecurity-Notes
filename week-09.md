@@ -75,4 +75,10 @@ grep "sudo" /var/log/auth.log                           # sudo privilege escalat
 ```
 ---
 
+### Wazuh (OSSEC)
+ - Install Wazuh agent and server
+ - Test log collection and alerts
+ - Use Wazuh dashboard for monitoring and analysis
+
+---
 *Cybersecurity SIEM Specialization - Hands-on approach for SOC roles*
