@@ -147,4 +147,5 @@ Expected Outcomes
 - [Week 6 - Active Directory Hacking](week-06.md)
 - [Week 7 - Advanced Web Hacking (OWASP Top 10 Advanced)](week-07.md)
 - [Week 8 - NSE, Wireshark, MITM Attacks](week-08.md)
+- [Week 9 - SIEM, Windows and Linux Event Logs Analysis, Wazuh (OSSEC)](week-09.md)
 
