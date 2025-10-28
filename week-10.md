@@ -20,6 +20,26 @@ This week focused on studying the Dark Web, the Tor (Onion) network, and Open-So
 
 ---
 
+### Procedures & Activities
+
+1. Tor Browser
+Studied the architecture of the Tor network and the role of Onion services.
+Configured the Tor Browser and reviewed privacy-related settings (NoScript, bridge usage, HTTPS-only).
+
+2. Dark Web Overview
+Learned differences between the public web and .onion domains.
+Discussed common Dark Web content types: marketplaces, forums, leak sites, and their risks.
+
+3. OSINT Exercises
+Performed basic footprinting: WHOIS lookup, DNS history, domain metadata, and registry checks.
+Used Maltego to build entity graphs, map connections, and identify useful leads.
+Checked emails and usernames against breach databases (Have I Been Pwned).
+
+4. TryHackMe Lab
+Completed the Dark Web room challenges to apply concepts in realistic scenarios and document findings.
+
+---
+
 ### Key Takeaways
 Tor Browser is not a VPN — its protections and threats differ; follow Tor-specific best practices.
 Only gather and use publicly available information with respect for legal and ethical boundaries.
