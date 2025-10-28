@@ -46,3 +46,10 @@ Only gather and use publicly available information with respect for legal and et
 The Dark Web can host malicious content; avoid visiting suspicious links directly and never download unknown files.
 Maltego and similar tools greatly accelerate link discovery and visual analysis during OSINT investigations.
 
+---
+
+### Practical Recommendations
+1. Configure Tor properly: consider bridges, avoid browser plugins, and enable available privacy hardening options.
+2. Use services like Have I Been Pwned to check if accounts or emails have been compromised.
+3. When conducting OSINT, document sources carefully and avoid actions that could break laws or harm others.
+4. Use isolated environments (VMs) when exploring unknown web content for added safety.
