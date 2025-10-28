@@ -17,3 +17,12 @@ This week focused on studying the Dark Web, the Tor (Onion) network, and Open-So
  - Maltego — Link analysis and visualization for OSINT investigations.
  - TryHackMe – Dark Web Room — Practical labs and challenges.
  - Additional utilities: WHOIS/DNS tools, breach checkers (e.g., Have I Been Pwned), paste sites, metadata extractors.
+
+---
+
+### Key Takeaways
+Tor Browser is not a VPN — its protections and threats differ; follow Tor-specific best practices.
+Only gather and use publicly available information with respect for legal and ethical boundaries.
+The Dark Web can host malicious content; avoid visiting suspicious links directly and never download unknown files.
+Maltego and similar tools greatly accelerate link discovery and visual analysis during OSINT investigations.
+
