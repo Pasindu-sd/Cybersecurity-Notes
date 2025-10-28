@@ -1,4 +1,4 @@
-# 🛡️ Week 10 — Dark Web & OSINT
+# 🛡️ Week 10 - Dark Web & OSINT
 ### Summary
 This week focused on studying the Dark Web, the Tor (Onion) network, and Open-Source Intelligence (OSINT) techniques. Hands-on practice included using the Tor Browser, OSINT tools like Maltego, and TryHackMe's "Dark Web" room to explore real-world scenarios in a controlled, ethical environment.
 
