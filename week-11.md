@@ -1,4 +1,5 @@
 # Types of Teams , MITRE ATT&CK, Cobalt Strike
+---
 
 ### Types of teams:
 1. Red Team(Ethical Hacker, Pentester)
@@ -43,3 +44,5 @@
    - GIAC Certified Incident Handler (GCIH)
    - Systems Security Certified Practitioner (SSCP)
    - CompTIA SecurityX
+
+---
