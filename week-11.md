@@ -16,7 +16,7 @@
    - Threat intelligence and reverse engineering
    - Creativity
 
-### certifications:
+### Certifications:
    - Certified Ethical Hacker (CEH)
    - Licensed Penetration Tester (LPT) Master
    - CompTIA PenTest+
@@ -24,3 +24,22 @@
    - GIAC Exploit Researcher and Advanced Penetration Tester (GXPN)
    - OffSec Certified Professional (OSCP+ and OSCP) certification
    - Certified Red Team Operations Professional (CRTOP)
+
+## Blue Team
+
+### What is a blue team?
+   NIST defines a blue team as “the group responsible for defending an enterprise’s use of information systems by maintaining its security posture against a group of mock attackers [6].” If the red team is playing offense, the blue team is playing defense to protect an        organization’s critical assets.
+### Skills:
+   - Risk assessment
+   - Threat intelligence
+   - Hardening techniques
+   - Monitoring and detection systems
+
+### Certifications:
+   - Certified Information Systems Security Professional (CISSP)
+   - Certified Information Systems Auditor (CISA)
+   - CompTIA Security+
+   - GIAC Security Essentials (GSEC)
+   - GIAC Certified Incident Handler (GCIH)
+   - Systems Security Certified Practitioner (SSCP)
+   - CompTIA SecurityX
