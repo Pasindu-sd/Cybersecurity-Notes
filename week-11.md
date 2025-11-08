@@ -62,8 +62,7 @@ The MITRE ATT&CK framework (MITRE ATT&CK) is a universally accessible, continuou
    - Techniques:    detail how an attacker achieves a specific tactic. For example, credential dumping is a technique used to access account credentials.
    - Procedures:    refer to the real-world implementations of techniques and sub-techniques as observed in actual cyber incidents. For example, these often include named malware families or custom scripts used by threat actors.
 
-
-
+---
 
 
 
