@@ -55,7 +55,10 @@ The MITRE ATT&CK framework (MITRE ATT&CK) is a universally accessible, continuou
    - Mobile Matrix
    - ICS Matrix
 
-
+### Key components of the MITRE ATT&CK framework
+   - Tactics:       represent the overarching goals or objectives of an adversary, such as execution, persistence, or lateral movement. Tactics describe why an attacker performs a certain action.
+   - Techniques:    detail how an attacker achieves a specific tactic. For example, credential dumping is a technique used to access account credentials.
+   - Procedures:    refer to the real-world implementations of techniques and sub-techniques as observed in actual cyber incidents. For example, these often include named malware families or custom scripts used by threat actors.
 
 
 
