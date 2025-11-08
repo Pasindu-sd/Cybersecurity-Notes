@@ -64,7 +64,7 @@ The MITRE ATT&CK framework (MITRE ATT&CK) is a universally accessible, continuou
 
 ---
 
-
+# Cobalt Strike Basic
 
 
 
