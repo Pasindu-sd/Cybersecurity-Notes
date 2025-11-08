@@ -67,7 +67,22 @@ The MITRE ATT&CK framework (MITRE ATT&CK) is a universally accessible, continuou
 # Cobalt Strike Basic
 obalt Strike is a powerful platform for conducting offensive cyber operations. It contains a wide variety of tools for conducting spear phishing and web drive-by attacks to gain initial access. Through the artefact kit, Cobalt Strike also has a flexible obfuscation framework. However, it is in the arena of post-exploitation that Cobalt Strike really shines. It has a custom implant, called Beacon, which can handle command and control (C2) communications via HTTP(S), DNS and even SMB named pipes. Beacon has numerous options for lateral movement, e.g., WMI and psexec as well as the ability to load PowerShell and .Net assemblies for additional modules such as mimikatz.
 
+### How Cobalt Strike Works: Key Features
+   - Covert Communication
+   - Attack Packages
+   - Beacon Configuration
+   - Post-Exploitation Modules
+   - Command and Control (C2)
+   - Custom Scripts
 
+### Why Is a Cobalt Strike Attack So Dangerous?
+Cobalt Strike attacks, when carried out by malicious attackers, are particularly dangerous due to their sophistication, stealth, and the tool’s extensive capabilities in carrying out cyber threats:
+
+   - Sophisticated attack capabilities: The ability of Cobalt Strike to carry out the tactics, techniques, and procedures (TTPs) of advanced persistent threats (APTs) allows attackers to conduct highly targeted and complex operations. This level of sophistication makes it challenging for organizations to detect and respond to attacks before significant damage is done.
+   - Stealthiness: Cobalt Strike uses covert communication channels, such as beaconing and data exfiltration over DNS or HTTP(S). These techniques enable attackers to maintain a low profile, avoiding detection by traditional security measures. The stealthy nature of these communications means that breaches can go unnoticed for extended periods, allowing attackers to escalate privileges and move laterally with little resistance.
+   - Post-exploitation and C2: The tool’s post-exploitation modules and customizable command and control (C2) capabilities allows attackers to adapt their strategies to the specific environment they are targeting. This adaptability makes Cobalt Strike attacks highly effective, as they can bypass security defenses tailored to more generic threat profiles.
+
+   The combination of sophistication, stealth, and adaptability makes Cobalt Strike a formidable tool in the hands of malicious actors, posing a significant threat to organizations worldwide.
 
 
 
