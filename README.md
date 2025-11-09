@@ -152,6 +152,8 @@ Tools Used
 
 ---
 
+## 📅 Week 11 - Types of Teams , MITRE ATT&CK, Cobalt Strike
+
 ## 📚 Weekly Notes
 - [Week 1 - Introduction to Cybersecurity](week-01.md)
 - [Week 2 - Linux & Networking Basics](week-02.md)
