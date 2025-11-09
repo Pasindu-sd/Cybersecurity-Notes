@@ -1,4 +1,4 @@
-# Types of Teams , MITRE ATT&CK, Cobalt Strike
+# 🛡️ Types of Teams, MITRE ATT&CK, Cobalt Strike
 ---
 
 ### Types of teams:
