@@ -160,7 +160,7 @@ Tools Used
 - Run safe Atomic Red Team tests and collect telemetry to evaluate detection.
 - Produce an attack timeline, detection findings, and mitigation recommendations.
 
-## 🛠️ Tools Used:
+Tools Used:
 - Metasploit / msfvenom
 - Atomic Red Team
 - **MITRE ATT&CK** Matrix
