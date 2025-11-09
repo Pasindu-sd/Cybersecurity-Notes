@@ -161,9 +161,9 @@ Tools Used
 - Produce an attack timeline, detection findings, and mitigation recommendations.
 
 ## 🛠️ Tools Used:
-- **Metasploit / msfvenom**
-- **Atomic Red Team**
-- **MITRE ATT&CK Matrix**
+- Metasploit / msfvenom
+- Atomic Red Team
+- **MITRE ATT&CK** Matrix
 - **BloodHound** (for AD mapping when applicable)
 - **Cobalt Strike** (lab-only, licensed) or **Sliver** as an alternative
 - **CrackMapExec**, **Impacket**
