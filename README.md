@@ -183,4 +183,5 @@ Tools Used:
 - [Week 8 - NSE, Wireshark, MITM Attacks](week-08.md)
 - [Week 9 - SIEM, Windows and Linux Event Logs Analysis, Wazuh (OSSEC)](week-09.md)
 - [Week 10 - Dark Web & OSINT](week-10.md)
+- [Week 11 - Types of Teams, MITRE ATT&CK, Cobalt Strike](week-11.md)
 
