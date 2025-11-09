@@ -65,7 +65,7 @@ The MITRE ATT&CK framework (MITRE ATT&CK) is a universally accessible, continuou
 ---
 
 # Cobalt Strike Basic
-obalt Strike is a powerful platform for conducting offensive cyber operations. It contains a wide variety of tools for conducting spear phishing and web drive-by attacks to gain initial access. Through the artefact kit, Cobalt Strike also has a flexible obfuscation framework. However, it is in the arena of post-exploitation that Cobalt Strike really shines. It has a custom implant, called Beacon, which can handle command and control (C2) communications via HTTP(S), DNS and even SMB named pipes. Beacon has numerous options for lateral movement, e.g., WMI and psexec as well as the ability to load PowerShell and .Net assemblies for additional modules such as mimikatz.
+Cobalt Strike is a powerful platform for conducting offensive cyber operations. It contains a wide variety of tools for conducting spear phishing and web drive-by attacks to gain initial access. Through the artefact kit, Cobalt Strike also has a flexible obfuscation framework. However, it is in the arena of post-exploitation that Cobalt Strike really shines. It has a custom implant, called Beacon, which can handle command and control (C2) communications via HTTP(S), DNS, and even SMB named pipes. Beacon has numerous options for lateral movement, e.g., WMI and psexec, as well as the ability to load PowerShell and .NET assemblies for additional modules such as Mimikatz.
 
 ### How Cobalt Strike Works: Key Features
    - Covert Communication
@@ -84,11 +84,38 @@ Cobalt Strike attacks, when carried out by malicious attackers, are particularly
 
    The combination of sophistication, stealth, and adaptability makes Cobalt Strike a formidable tool in the hands of malicious actors, posing a significant threat to organizations worldwide.
 
+---
 
+# Red Team Simulation
+Simulate realistic attacker actions in an isolated lab to test detection and response.
 
+### Core phases
+Reconnaissance – host/port scans, AD enumeration.
+Initial Access – phishing, malicious payloads, stagers.
+Privilege Escalation – enumerate misconfigs, escalate to Admin/SYSTEM.
+Credential Access – dump creds/hashes (Mimikatz, LSASS).
+Lateral Movement – PsExec/WMI/SMB, use harvested creds.
+Persistence & Evasion – scheduled tasks, registry run keys, obfuscation.
+Cleanup & Reporting – remove artifacts, revert snapshots, write timeline + detections.
 
+Quick checklist
 
+Lab isolated (host-only/internal)
 
+VM snapshots taken before tests
 
+Logging enabled (Sysmon/Windows Event/EDR)
 
+Capture commands, timestamps, screenshots
 
+Clean up and restore snapshots after tests
+
+Top tools (lab-only)
+
+Kali: msfvenom, msfconsole, nmap, crackmapexec, impacket
+
+Windows: Mimikatz, winPEAS, PowerView, SharpHound
+
+C2: Cobalt Strike (licensed) / Sliver / Metasploit
+
+Logging: Sysmon, Wazuh/ELK
