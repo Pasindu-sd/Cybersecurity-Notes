@@ -99,11 +99,11 @@ Simulate realistic attacker actions in an isolated lab to test detection and res
 - Cleanup & Reporting – remove artifacts, revert snapshots, write timeline + detections.
 
 ### Quick checklist
-Lab isolated (host-only/internal)
-VM snapshots taken before tests
-Logging enabled (Sysmon/Windows Event/EDR)
-Capture commands, timestamps, screenshots
-Clean up and restore snapshots after tests
+- Lab isolated (host-only/internal)
+- VM snapshots taken before tests
+- Logging enabled (Sysmon/Windows Event/EDR)
+- Capture commands, timestamps, screenshots
+- Clean up and restore snapshots after tests
 
 Top tools (lab-only)
 
