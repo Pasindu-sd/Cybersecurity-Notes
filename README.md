@@ -152,7 +152,15 @@ Tools Used
 
 ---
 
-## 📅 Week 11 - Types of Teams , MITRE ATT&CK, Cobalt Strike
+## 📅 Week 11 - Types of Teams, MITRE ATT&CK, Cobalt Strike
+- Understand Red Team vs Blue Team roles and the full attack lifecycle.
+- Map attack steps to the MITRE ATT&CK framework.
+- Learn basics of Cobalt Strike / Beacon concepts (listeners, staging, C2) — lab-only.
+- Complete TryHackMe Red Team room for practical exercises.
+- Run safe Atomic Red Team tests and collect telemetry to evaluate detection.
+- Produce an attack timeline, detection findings, and mitigation recommendations.
+
+---
 
 ## 📚 Weekly Notes
 - [Week 1 - Introduction to Cybersecurity](week-01.md)
