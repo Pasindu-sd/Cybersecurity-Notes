@@ -105,12 +105,8 @@ Simulate realistic attacker actions in an isolated lab to test detection and res
 - Capture commands, timestamps, screenshots
 - Clean up and restore snapshots after tests
 
-Top tools (lab-only)
-
-Kali: msfvenom, msfconsole, nmap, crackmapexec, impacket
-
-Windows: Mimikatz, winPEAS, PowerView, SharpHound
-
-C2: Cobalt Strike (licensed) / Sliver / Metasploit
-
-Logging: Sysmon, Wazuh/ELK
+### Top tools (lab-only)
+- Kali: msfvenom, msfconsole, nmap, crackmapexec, impacket
+- Windows: Mimikatz, winPEAS, PowerView, SharpHound
+- C2: Cobalt Strike (licensed) / Sliver / Metasploit
+- Logging: Sysmon, Wazuh/ELK
