@@ -90,13 +90,13 @@ Cobalt Strike attacks, when carried out by malicious attackers, are particularly
 Simulate realistic attacker actions in an isolated lab to test detection and response.
 
 ### Core phases
-Reconnaissance – host/port scans, AD enumeration.
-Initial Access – phishing, malicious payloads, stagers.
-Privilege Escalation – enumerate misconfigs, escalate to Admin/SYSTEM.
-Credential Access – dump creds/hashes (Mimikatz, LSASS).
-Lateral Movement – PsExec/WMI/SMB, use harvested creds.
-Persistence & Evasion – scheduled tasks, registry run keys, obfuscation.
-Cleanup & Reporting – remove artifacts, revert snapshots, write timeline + detections.
+- Reconnaissance – host/port scans, AD enumeration.
+- Initial Access – phishing, malicious payloads, stagers.
+- Privilege Escalation – enumerate misconfigs, escalate to Admin/SYSTEM.
+- Credential Access – dump creds/hashes (Mimikatz, LSASS).
+- Lateral Movement – PsExec/WMI/SMB, use harvested creds.
+- Persistence & Evasion – scheduled tasks, registry run keys, obfuscation.
+- Cleanup & Reporting – remove artifacts, revert snapshots, write timeline + detections.
 
 Quick checklist
 
