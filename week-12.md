@@ -6,3 +6,7 @@ Below is a detailed review of each certification:
      - **Level:** Entry-Level
      - **Purpose:** A broad foundation of security knowledge. For network and system administrators.
      - **Exam:** Multiple-choice + performance-based questions.
+  2. CEH (Certified Ethical Hacker):
+     - **Level:** Intermediate
+     - **Purpose:** Learning the attack methodologies used by hackers. For penetration testers
+     - **Exam:** Multiple-choice questions.
