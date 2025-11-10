@@ -21,3 +21,24 @@ Below is a detailed review of each certification:
   ### [CompTIA Security+](https://www.comptia.org/en-em/certifications/security/)
 
 ---
+
+## CEH (Certified Ethical Hacker) Preparation
+  ### Exam Overview
+- **Name**: CEH v12 (Certified Ethical Hacker)
+- **Questions**: 125 multiple-choice
+- **Duration**: 4 hours
+- **Passing Score**: ~70%
+- **Format**: Computer-based testing
+
+  ### Key Domains Covered
+- Information Gathering & Footprinting
+- Scanning & Enumeration
+- System Hacking
+- Malware Threats
+- Social Engineering
+- Web Application Security
+- SQL Injection
+- Wireless Network Security
+- Cryptography
+
+---
