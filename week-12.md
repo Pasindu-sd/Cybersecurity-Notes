@@ -14,6 +14,9 @@ Below is a detailed review of each certification:
      - **Level:** Advanced
      - **Purpose:** To prove practical hacking ability. For penetration testers.
      - **Exam:** A 24-hour hands-on test that requires hacking into real systems.
+    
+---
 
-## [CompTIA Security+](https://www.comptia.org/en-em/certifications/security/)
+## CompTIA Security+ Syllabus Analysis
+  ### [CompTIA Security+](https://www.comptia.org/en-em/certifications/security/)
   
