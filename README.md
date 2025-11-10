@@ -184,4 +184,5 @@ Tools Used:
 - [Week 9 - SIEM, Windows and Linux Event Logs Analysis, Wazuh (OSSEC)](week-09.md)
 - [Week 10 - Dark Web & OSINT](week-10.md)
 - [Week 11 - Types of Teams, MITRE ATT&CK, Cobalt Strike](week-11.md)
+- [Week 12 - Popular certification reviews (Security+, CEH, OSCP)](week-12.md)
 
