@@ -19,4 +19,5 @@ Below is a detailed review of each certification:
 
 ## CompTIA Security+ Syllabus Analysis
   ### [CompTIA Security+](https://www.comptia.org/en-em/certifications/security/)
-  
+
+---
