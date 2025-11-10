@@ -10,3 +10,7 @@ Below is a detailed review of each certification:
      - **Level:** Intermediate
      - **Purpose:** Learning the attack methodologies used by hackers. For penetration testers
      - **Exam:** Multiple-choice questions.
+  3. OSCP (Offensive Security):
+     - **Level:** Advanced
+     - **Purpose:** To prove practical hacking ability. For penetration testers.
+     - **Exam:** A 24-hour hands-on test that requires hacking into real systems.
