@@ -26,3 +26,10 @@ You legally test their systems (within their allowed scope) and if you find a bu
    - Intigriti
    - YesWeHack
    - OpenBugBounty
+
+### Why Bug Bounty is Good?
+
+   - You learn real cybersecurity skills
+   - You can earn money
+   - You build a strong reputation
+   - Helps you get internships or jobs in cybersecurity
