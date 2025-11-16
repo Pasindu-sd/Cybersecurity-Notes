@@ -18,3 +18,11 @@ You legally test their systems (within their allowed scope) and if you find a bu
    - Create a Proof of Concept (PoC) showing how the bug works.
    - Report it responsibly to the company.
    - Get rewarded if the bug is valid.
+
+### Popular Bug Bounty Platforms
+
+   - HackerOne
+   - Bugcrowd
+   - Intigriti
+   - YesWeHack
+   - OpenBugBounty
