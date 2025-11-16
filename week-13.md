@@ -10,3 +10,11 @@ You legally test their systems (within their allowed scope) and if you find a bu
    - Hall of Fame recognition
    - Swag / gifts
    - Reputation points
+
+### What Bug Bounty Hunters Do
+
+   - Find weaknesses in websites, mobile apps, APIs, servers.
+   - Test for vulnerabilities like SQL Injection, XSS, IDOR, CSRF, etc.
+   - Create a Proof of Concept (PoC) showing how the bug works.
+   - Report it responsibly to the company.
+   - Get rewarded if the bug is valid.
