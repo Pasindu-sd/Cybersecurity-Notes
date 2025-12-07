@@ -35,6 +35,11 @@ You legally test their systems (within their allowed scope) and if you find a bu
    - Helps you get internships or jobs in cybersecurity
 
 
-### 🐞 Bug Bounty Report – SQL Injection (Login Bypass)
+---
+
+### Bug Bounty Report – SQL Injection (Login Bypass)
 
       Target: https://juice-shop.herokuapp.com/admin#/payment/shop
+
+
+---
