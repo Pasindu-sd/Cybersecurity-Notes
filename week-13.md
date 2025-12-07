@@ -34,7 +34,10 @@ You legally test their systems (within their allowed scope) and if you find a bu
    - You build a strong reputation
    - Helps you get internships or jobs in cybersecurity
 
+## Resources in study
+- [Resources](week%2013)
 
+- 
 ---
 
 ### Bug Bounty Report – SQL Injection (Login Bypass)
