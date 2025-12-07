@@ -37,7 +37,7 @@ You legally test their systems (within their allowed scope) and if you find a bu
 ## Resources in study
 - [Resources](week%2013)
 
-- 
+
 ---
 
 ### Bug Bounty Report – SQL Injection (Login Bypass)
