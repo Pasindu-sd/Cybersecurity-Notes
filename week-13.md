@@ -41,5 +41,5 @@ You legally test their systems (within their allowed scope) and if you find a bu
 
       Target: https://juice-shop.herokuapp.com/admin#/payment/shop
 
-   - 
+   - [Bug Report](week%2013/Bug_Bounty_Report_SQLi.pdf)
 ---
