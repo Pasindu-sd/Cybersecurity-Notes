@@ -8,7 +8,7 @@
 
 ### Threat Hunting Process (Basic 5 Steps):
   - Step 1: Create a Hypothesis
-      "What kind of threat could be on our network?"
+      - "What kind of threat could be on our network?"
 
   - Step 2: Data Collection
       - Log files (Windows Event, Linux Syslog, Firewall, DNS)
