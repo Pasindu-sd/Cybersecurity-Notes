@@ -189,6 +189,11 @@ Below is a detailed review of each certification:
 
 ---
 
+## 📅 Week 13 - Bug Bounty
+
+
+---
+
 ## 📚 Weekly Notes
 - [Week 1 - Introduction to Cybersecurity](week-01.md)
 - [Week 2 - Linux & Networking Basics](week-02.md)
