@@ -19,3 +19,13 @@
       - Using tools (SIEM, ELK Stack, Wireshark)
       - Pattern matching
       - Timeline analysis
+
+  - Step 4: Investigation
+      - Confirm suspicious activity
+      - Determine scope
+      - Impact assessment
+    
+  - Step 5: Response & Documentation
+      - Notify incident response team
+      - Write report
+      - Lessons learned
