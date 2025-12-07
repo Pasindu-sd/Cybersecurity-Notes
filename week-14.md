@@ -14,3 +14,8 @@
       - Log files (Windows Event, Linux Syslog, Firewall, DNS)
       - Network traffic (PCAP files)
       - Endpoint data (EDR tools)
+
+  - Step 3: Analysis
+      - Using tools (SIEM, ELK Stack, Wireshark)
+      - Pattern matching
+      - Timeline analysis
