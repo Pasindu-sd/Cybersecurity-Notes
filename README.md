@@ -190,7 +190,10 @@ Below is a detailed review of each certification:
 ---
 
 ## 📅 Week 13 - Bug Bounty
-
+- Bug bounty Basic Concepts
+- Research platforms like HackerOne and Bugcrowd
+- Solving practically valid problems
+- Bug Bounty Reports
 
 ---
 
