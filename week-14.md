@@ -1,4 +1,6 @@
 # Week 14 - Threat Hunting Basic
+Simple description:
+The process of actively searching for threats that are already present but not identified in a network/system.
 
 ## Threat Hunting:
 3 types of threat hunting:
