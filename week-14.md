@@ -122,3 +122,5 @@ The process of actively searching for threats that are already present but not i
 
 
 ## Splunk
+  What is Splunk?
+    Splunk is a data analytics and monitoring platform that collects, indexes, analyzes, and visualizes machine-generated data (logs, events, metrics) in real time.
