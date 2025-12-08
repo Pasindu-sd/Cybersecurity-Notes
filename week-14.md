@@ -2,6 +2,8 @@
 Simple description:
 The process of actively searching for threats that are already present but not identified in a network/system.
 
+---
+
 ## Threat Hunting:
 3 types of threat hunting:
   - Hypothesis-Driven Hunting
@@ -31,6 +33,8 @@ The process of actively searching for threats that are already present but not i
       - Notify incident response team
       - Write report
       - Lessons learned
+
+---
 
 ## ELK Stack
 - ELK:
@@ -111,5 +115,7 @@ The process of actively searching for threats that are already present but not i
               ↓
             Kibana
   ```
+
+---
 
 ## Splunk
