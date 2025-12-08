@@ -40,3 +40,21 @@ The process of actively searching for threats that are already present but not i
 
   When these three come together, it is a powerful log management + analytics platform that can be used to collect, process, search, analyze, and visualize logs.
   ELK is a main toolset for Threat Hunting, Monitoring, SIEM setup, Security Onion, Wazuh, SOC operations.
+
+  ### 1. Elasticsearch – (Search + Store Engine)
+  Elasticsearch is:
+    - A high-speed search engine
+    - A database that stores logs
+    - An index-based system that handles big data
+    - Real-time search & analytics support
+
+  Two basic concepts:
+     Index = Log collections (like a DB table)
+     Document = Individual log entry (like a Row)
+
+  You use Elasticsearch to find logs by entering a search query.
+
+  For example:
+    - “Show failed logins”
+    - “Search PowerShell events”
+    - “Find suspicious IPs”
