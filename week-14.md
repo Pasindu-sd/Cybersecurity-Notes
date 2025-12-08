@@ -68,7 +68,7 @@ The process of actively searching for threats that are already present but not i
 
   The Logstash pipeline has 3 steps:
 
-  - 1. Input
+  1.Input
     - Logs received from:
     - Windows Event Logs
     - Sysmon
