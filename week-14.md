@@ -58,3 +58,42 @@ The process of actively searching for threats that are already present but not i
     - “Show failed logins”
     - “Search PowerShell events”
     - “Find suspicious IPs”
+
+  ### 2. Logstash – (Log Collector + Processor)
+  Logstash is:
+    - A tool to collect logs
+    - A tool to filter, clean, parse, normalize logs
+    - A tool to convert logs to formats (JSON, CSV, Sysmon, Winlogs)
+    - A tool to push logs to ElasticSearch
+
+The Logstash pipeline has 3 steps:
+
+1️⃣ Input
+
+Logs received from:
+
+Windows Event Logs
+
+Sysmon
+
+Wazuh
+
+Network logs
+
+Firewall logs
+
+2️⃣ Filter
+
+Log parsing:
+
+extract fields
+
+grok patterns
+
+remove noise
+
+add tags
+
+3️⃣ Output
+
+Logs to Elasticsearch
