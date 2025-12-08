@@ -233,4 +233,5 @@ Below is a detailed review of each certification:
 - [Week 11 - Types of Teams, MITRE ATT&CK, Cobalt Strike](week-11.md)
 - [Week 12 - Popular certification reviews (Security+, CEH, OSCP)](week-12.md)
 - [Week 13 - Bug Bounty](week-13.md)
+- [Week 14 - Threat Hunting Basic, ELK Stack, Splunk Analysis, Threat Detection in SIEM](week-14.md)
 
