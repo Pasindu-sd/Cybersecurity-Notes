@@ -170,3 +170,13 @@ SIEM = Security Information & Event Management
   - Privilege escalation
   - Phishing & social engineering attempts
   - DDoS attacks
+
+  ### Benefits of SIEM Threat Detection:
+  - Real-time monitoring – Detects threats within seconds
+  - Centralized visibility – Single pane of glass for all security data
+  - Compliance support – Meets PCI DSS, HIPAA, GDPR requirements
+  - Forensic analysis – Helps investigate past incidents
+  - Automated response – Can trigger automatic blocking actions
+
+  ### Key Takeaway:
+  SIEM transforms raw security logs into actionable threat intelligence, enabling organizations to detect, investigate, and respond to cyber threats faster and more effectively.
