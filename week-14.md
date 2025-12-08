@@ -83,6 +83,5 @@ The process of actively searching for threats that are already present but not i
   - remove noise
   - add tags
 
-3️⃣ Output
-
-Logs to Elasticsearch
+  **3. Output**
+    - Logs to Elasticsearch
