@@ -133,3 +133,9 @@ Splunk is a data analytics and monitoring platform that collects, indexes, analy
     - → Defines the format of the data (e.g., apache:access, win:eventlog).
   - Search Processing Language (SPL)
     - → Splunk’s query language for searching and analyzing data.
+
+  ### Main Uses:
+  - IT Operations Monitoring (server logs, application errors)
+  - Security Information & Event Management (SIEM) (threat detection, compliance)
+  - Business Analytics (user behavior, sales data)
+  - IoT & Application Performance Monitoring
