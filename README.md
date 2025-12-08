@@ -197,6 +197,28 @@ Below is a detailed review of each certification:
 
 ---
 
+## 📅 Week 14 - Threat Hunting Basic, ELK Stack, Splunk Analysis, Threat Detection in SIEM
+- Threat Hunting
+  - 3 types: Hypothesis, IOC, Analytics-based
+  - Process: Hypothesis → Collect → Analyze → Investigate → Respond
+
+- ELK Stack
+  - Elasticsearch – Store/search logs
+  - Logstash – Collect/process logs
+  - Kibana – Visualize data;    Used for: SIEM, SOC, threat detection
+
+- Splunk
+  - Log analysis platform
+  - Key parts: Index, Source, Sourcetype
+  - Uses: IT monitoring, security, business analytics
+
+- SIEM Detection
+  - Methods: Signature, Anomaly, Behavioral
+  - Finds: Malware, breaches, attacks
+  - Benefits: Real-time alerts, centralized view, compliance
+
+---
+
 ## 📚 Weekly Notes
 - [Week 1 - Introduction to Cybersecurity](week-01.md)
 - [Week 2 - Linux & Networking Basics](week-02.md)
