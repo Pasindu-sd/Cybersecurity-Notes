@@ -161,3 +161,12 @@ SIEM = Security Information & Event Management
     - Endpoint security data
     - Network traffic
     - Cloud activity logs
+
+  ### Common Threats Detected:
+  - Malware & ransomware activity
+  - Brute force attacks (multiple failed logins)
+  - Data exfiltration (unusual large data transfers)
+  - Lateral movement (attacker moving inside network)
+  - Privilege escalation
+  - Phishing & social engineering attempts
+  - DDoS attacks
