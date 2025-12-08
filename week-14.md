@@ -1,4 +1,4 @@
-#🛡️ Threat Hunting Basic, ELK Stack, Splunk Analysis, Threat Detection in SIEM
+# 🛡️ Threat Hunting Basic, ELK Stack, Splunk Analysis, Threat Detection in SIEM
 
 ---
 
