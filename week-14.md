@@ -139,3 +139,9 @@ Splunk is a data analytics and monitoring platform that collects, indexes, analy
   - Security Information & Event Management (SIEM) (threat detection, compliance)
   - Business Analytics (user behavior, sales data)
   - IoT & Application Performance Monitoring
+
+  ### Why Use Splunk?
+  - Real-time insights from unstructured data
+  - Powerful dashboards and visualizations
+  - Scalable for big data environments
+  - Supports logs from any source (OS, apps, cloud, devices)
