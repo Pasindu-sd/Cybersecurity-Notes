@@ -37,3 +37,5 @@ The process of actively searching for threats that are already present but not i
     - E → Elasticsearch
     - L → Logstash
     - K → Kibana
+  When these three come together, it is a powerful log management + analytics platform that can be used to collect, process, search, analyze, and visualize logs.
+  ELK is a main toolset for Threat Hunting, Monitoring, SIEM setup, Security Onion, Wazuh, SOC operations.
