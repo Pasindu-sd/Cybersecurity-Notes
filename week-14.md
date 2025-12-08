@@ -43,10 +43,10 @@ The process of actively searching for threats that are already present but not i
 
   ### 1. Elasticsearch – (Search + Store Engine)
   Elasticsearch is:
-        - A high-speed search engine
-        - A database that stores logs
-        - An index-based system that handles big data
-        - Real-time search & analytics support
+      - A high-speed search engine
+      - A database that stores logs
+      - An index-based system that handles big data
+      - Real-time search & analytics support
     
   Two basic concepts:
          Index = Log collections (like a DB table)
