@@ -31,3 +31,5 @@ The process of actively searching for threats that are already present but not i
       - Notify incident response team
       - Write report
       - Lessons learned
+
+## ELK Stack
