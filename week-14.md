@@ -121,6 +121,7 @@
 
 ## Splunk 
 Splunk is a data analytics and monitoring platform that collects, indexes, analyzes, and visualizes machine-generated data (logs, events, metrics) in real time.
+  - [https://www.splunk.com/en_us/download.html](https://www.splunk.com/en_us/download.html)
 
   ### Key Components:
   - Index
