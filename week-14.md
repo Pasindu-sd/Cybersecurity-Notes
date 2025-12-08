@@ -1,4 +1,4 @@
-# Week 14 - Threat Hunting Basic, ELK Stack
+# Week 14 - Threat Hunting Basic, ELK Stack, Splunk Analysis
 Simple description:
 The process of actively searching for threats that are already present but not identified in a network/system.
 
