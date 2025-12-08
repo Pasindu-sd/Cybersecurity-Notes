@@ -67,6 +67,7 @@ The process of actively searching for threats that are already present but not i
     - A tool to push logs to ElasticSearch
 
   The Logstash pipeline has 3 steps:
+
   **1. Input**
     - Logs received from:
     - Windows Event Logs
@@ -74,6 +75,7 @@ The process of actively searching for threats that are already present but not i
     - Wazuh
     - Network logs
     - Firewall logs
+  
   **2. Filter**
   - Log parsing:
   - extract fields
