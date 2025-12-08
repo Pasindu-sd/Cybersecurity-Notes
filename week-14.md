@@ -121,6 +121,15 @@ The process of actively searching for threats that are already present but not i
 ---
 
 
-## Splunk
-  What is Splunk?
-    Splunk is a data analytics and monitoring platform that collects, indexes, analyzes, and visualizes machine-generated data (logs, events, metrics) in real time.
+## Splunk 
+Splunk is a data analytics and monitoring platform that collects, indexes, analyzes, and visualizes machine-generated data (logs, events, metrics) in real time.
+
+  ### Key Components:
+  - Index
+    - → A storage location for data (like a database in Splunk).
+  - Source
+    - → The origin of the data (e.g., a log file, network stream).
+  - Sourcetype
+    - → Defines the format of the data (e.g., apache:access, win:eventlog).
+  - Search Processing Language (SPL)
+    - → Splunk’s query language for searching and analyzing data.
