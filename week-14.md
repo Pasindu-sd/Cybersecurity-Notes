@@ -145,3 +145,5 @@ Splunk is a data analytics and monitoring platform that collects, indexes, analy
   - Powerful dashboards and visualizations
   - Scalable for big data environments
   - Supports logs from any source (OS, apps, cloud, devices)
+
+---
