@@ -110,4 +110,4 @@ The process of actively searching for threats that are already present but not i
         Elasticsearch
               ↓
             Kibana
-```
+  ```
