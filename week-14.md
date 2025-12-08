@@ -100,3 +100,14 @@ The process of actively searching for threats that are already present but not i
     - Process execution timeline
     - Threat hunting dashboards
     - SOC monitoring screens
+  
+  ### ELK Setup එකේ Basic Flow:
+  ```
+        Windows Logs / Linux Logs / Network Logs
+              ↓
+           Logstash
+              ↓
+        Elasticsearch
+              ↓
+            Kibana
+```
