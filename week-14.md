@@ -49,12 +49,12 @@ The process of actively searching for threats that are already present but not i
     - Real-time search & analytics support
     
   Two basic concepts:
-         Index = Log collections (like a DB table)
-         Document = Individual log entry (like a Row)
+    Index = Log collections (like a DB table)
+    Document = Individual log entry (like a Row)
     
   You use Elasticsearch to find logs by entering a search query.
     
   For example:
-        - “Show failed logins”
-        - “Search PowerShell events”
-        - “Find suspicious IPs”
+    - “Show failed logins”
+    - “Search PowerShell events”
+    - “Find suspicious IPs”
