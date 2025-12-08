@@ -147,3 +147,7 @@ Splunk is a data analytics and monitoring platform that collects, indexes, analy
   - Supports logs from any source (OS, apps, cloud, devices)
 
 ---
+
+## Threat Detection in SIEM
+SIEM = Security Information & Event Management
+A security solution that collects, analyzes, and correlates security data from multiple sources to detect threats.
