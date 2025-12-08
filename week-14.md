@@ -85,3 +85,23 @@ The process of actively searching for threats that are already present but not i
 
   **3. Output**
     - Logs to Elasticsearch
+
+  ### 3. Kibana – (Dashboard + Visualization)
+  Kibana means:
+    - Visual dashboard builder
+    - Threat Hunting visualizer
+    - Query analyzer
+    - Real-time log viewer
+    - Tool to create charts, maps, graphs, timelines
+
+Using Kibana:
+
+Failed login dashboard
+
+Network traffic map
+
+Process execution timeline
+
+Threat hunting dashboards
+
+SOC monitoring screens
