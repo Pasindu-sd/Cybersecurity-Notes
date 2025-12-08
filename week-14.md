@@ -33,3 +33,7 @@ The process of actively searching for threats that are already present but not i
       - Lessons learned
 
 ## ELK Stack
+- ELK:
+    - E → Elasticsearch
+    - L → Logstash
+    - K → Kibana
