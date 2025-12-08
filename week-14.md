@@ -152,12 +152,12 @@ Splunk is a data analytics and monitoring platform that collects, indexes, analy
 SIEM = Security Information & Event Management
   - A security solution that collects, analyzes, and correlates security data from multiple sources to detect threats.
   ### How SIEM Detects Threats
-  1. Three Detection Methods:
+  - **1. Three Detection Methods:**
     - Signature-Based – Matches known attack patterns
     - Anomaly-Based – Detects deviations from normal behavior
     - Behavioral Analytics – Monitors user/entity behavior over time
   
-  2. Data Sources:
+  - **2. Data Sources:**
     - Firewall logs
     - Server/application logs
     - Endpoint security data
