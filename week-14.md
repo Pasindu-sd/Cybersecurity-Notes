@@ -4,6 +4,7 @@ The process of actively searching for threats that are already present but not i
 
 ---
 
+
 ## Threat Hunting:
 3 types of threat hunting:
   - Hypothesis-Driven Hunting
@@ -35,6 +36,7 @@ The process of actively searching for threats that are already present but not i
       - Lessons learned
 
 ---
+
 
 ## ELK Stack
 - ELK:
@@ -117,5 +119,6 @@ The process of actively searching for threats that are already present but not i
   ```
 
 ---
+
 
 ## Splunk
