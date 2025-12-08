@@ -94,14 +94,9 @@ The process of actively searching for threats that are already present but not i
     - Real-time log viewer
     - Tool to create charts, maps, graphs, timelines
 
-Using Kibana:
-
-Failed login dashboard
-
-Network traffic map
-
-Process execution timeline
-
-Threat hunting dashboards
-
-SOC monitoring screens
+  Using Kibana:
+    - Failed login dashboard
+    - Network traffic map
+    - Process execution timeline
+    - Threat hunting dashboards
+    - SOC monitoring screens
