@@ -121,3 +121,8 @@
 
    ### Sri Lanka ICT Act No. 24 of 2007 – 
   The ICT Act No. 24 of 2007, also known as the Computer Crime Act, is Sri Lanka’s main law for preventing and investigating cybercrimes. It defines illegal activities involving computers, networks, and electronic data.
+
+  ### Key Points
+  - **1. Unauthorized Access**
+    - Accessing a computer, network, email, or data without permission is an offence.
+    - *Example:* Hacking someone’s account.
