@@ -91,3 +91,10 @@
   - **5. Incident Response**
   Have a plan to handle security breaches quickly.
     - *Example:* Isolate compromised servers, notify affected users.
+
+  - **6. Authentication Policies**
+  Ensure strong user authentication.
+    - *Example:*
+      - Minimum 12-character passwords
+      - MFA (TOTP/SMS) enabled
+      - Passwords stored with salts
