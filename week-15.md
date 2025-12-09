@@ -138,3 +138,7 @@
   - **4. Unauthorized Obstruction**
     - Disrupting or damaging computer systems or networks.
     - *Example:* DDoS attacks, spreading malware.
+
+  - **5. Unauthorized Disclosure of Information**
+    - Revealing, copying, or distributing confidential data without permission.
+    - *Example:* Leaking customer or government data.
