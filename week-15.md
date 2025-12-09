@@ -4,6 +4,8 @@
 
 
 ## GDPR Basic Concepts (focused on data privacy)
+  - [GDPR.EU Website](https://gdpr.eu/)
+
 **1. Data Privacy**
   - Protecting personal information and ensuring it is used safely and lawfully.
 
