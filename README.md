@@ -226,33 +226,22 @@ Below is a detailed review of each certification:
   - People can access/delete their data.
   - Report data breaches in 72 hours.
 
-Cybercrime (World)
+- Cybercrime (World)
+  - Crimes: hacking, phishing, fraud, malware.
+  - Laws protect data, money, children, systems.
+  - Punishments: fines + jail.
+  
+- Information Security
+  - Limit access.
+  - Use encryption.
+  - Log activities.
+  - Use strong passwords + MFA.
+  - Keep data only when needed.
 
-Crimes: hacking, phishing, fraud, malware.
-
-Laws protect data, money, children, systems.
-
-Punishments: fines + jail.
-
-Information Security
-
-Limit access.
-
-Use encryption.
-
-Log activities.
-
-Use strong passwords + MFA.
-
-Keep data only when needed.
-
-Sri Lankan Cyber Laws (2007 Act)
-
-Illegal: hacking, data change, data leaks, fraud.
-
-Police can investigate & seize devices.
-
-Penalty: heavy fines + jail.
+-Sri Lankan Cyber Laws (2007 Act)
+  - Illegal: hacking, data change, data leaks, fraud.
+  - Police can investigate & seize devices.
+  - Penalty: heavy fines + jail.
 
 ---
 
