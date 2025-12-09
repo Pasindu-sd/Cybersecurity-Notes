@@ -34,3 +34,7 @@
 **6. Data Controller & Processor**
   - Controller: Decides why and how data is used
   - Processor: Processes data on behalf of the controller
+
+**7. Data Breach**
+  - When data is leaked, stolen, or accessed without permission.
+    Must be reported quickly (within 72 hours).
