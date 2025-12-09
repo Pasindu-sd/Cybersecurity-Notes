@@ -154,7 +154,7 @@
     - Creating, storing, or distributing prohibited or harmful digital content.
 
   - **9. Investigative Powers**
-    Authorized officers (Police Cyber Crime Division/SLCERT) can:
+    - Authorized officers (Police Cyber Crime Division/SLCERT) can:
         - Search and seize computers
         - Collect digital evidence
         - Obtain warrants
