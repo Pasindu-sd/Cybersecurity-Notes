@@ -110,3 +110,7 @@
   - **9. Vendor/Third-Party Security**
   Verify external services meet security standards.
     - *Example:* Cloud provider or payment gateway with ISO 27001/PCI-DSS compliance.
+
+  - **10. Transparency**
+  Tell users clearly how their data is used.
+    - *Example:* A clear Privacy Policy and a way to request data deletion.
