@@ -67,7 +67,7 @@
 ---
 
 ## Information Security Principles (Practical Examples) ISO 27001 Basics
-  **1. Access Control**
+  - **1. Access Control**
     - Limit data access only to authorized personnel.
     - Example: Developers should not have full database admin rights.
     - Principles: Least Privilege, Need-to-Know.
