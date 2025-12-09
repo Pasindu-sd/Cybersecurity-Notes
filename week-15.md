@@ -30,3 +30,7 @@
       - Delete it (“right to be forgotten”)
       - Limit use
       - Move it to another service (data portability)
+
+**6. Data Controller & Processor**
+  - Controller: Decides why and how data is used
+  - Processor: Processes data on behalf of the controller
