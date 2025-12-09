@@ -102,3 +102,7 @@
   - **7. Data Retention & Disposal**
   Keep data only for the required time frame.
     - *Example:* CCTV footage kept for 30 days; old backups securely deleted.
+
+  - **8. Physical Security**
+  Protect physical access to critical systems.
+    - *Example:* Server rooms with access cards, CCTV, locked cabinets.
