@@ -7,7 +7,7 @@
 **1. Data Privacy**
   - Protecting personal information and ensuring it is used safely and lawfully.
 
-**2. Personal Data - 
+**2. Personal Data** - 
 Any information that can identify a person:
   - Name
   - ID numbers
