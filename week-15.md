@@ -87,3 +87,7 @@
   - **4. Logging & Monitoring**
   Keep secure logs to detect suspicious activity.
     - *Example:* Failed login logs, access logs, audit trails.
+
+  - **5. Incident Response**
+  Have a plan to handle security breaches quickly.
+    - *Example:* Isolate compromised servers, notify affected users.
