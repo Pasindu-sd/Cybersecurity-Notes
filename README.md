@@ -238,7 +238,7 @@ Below is a detailed review of each certification:
   - Use strong passwords + MFA.
   - Keep data only when needed.
 
--Sri Lankan Cyber Laws (2007 Act)
+- Sri Lankan Cyber Laws (2007 Act)
   - Illegal: hacking, data change, data leaks, fraud.
   - Police can investigate & seize devices.
   - Penalty: heavy fines + jail.
