@@ -1,1 +1,1 @@
-
+# 🛡️ GDPR Basic Concepts
