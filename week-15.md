@@ -78,3 +78,8 @@
       - Use HTTPS/TLS for websites.
       - Store passwords using bcrypt hashing.
       - Encrypt backups with AES/GPG.
+
+  - **3. Data Minimization**
+  Collect only the data you actually need.
+    - *Example:* Asking for only email + name for a signup form.
+    - Avoid unnecessary data like NIC, home address, etc.
