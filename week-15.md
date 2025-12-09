@@ -98,3 +98,7 @@
       - Minimum 12-character passwords
       - MFA (TOTP/SMS) enabled
       - Passwords stored with salts
+
+  - **7. Data Retention & Disposal**
+  Keep data only for the required time frame.
+    - *Example:* CCTV footage kept for 30 days; old backups securely deleted.
