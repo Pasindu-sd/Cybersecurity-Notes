@@ -8,10 +8,17 @@
   - Protecting personal information and ensuring it is used safely and lawfully.
 
 **2. Personal Data** - 
-Any information that can identify a person:
-  - Name
-  - ID numbers
-  - Email
-  - Phone number
-  - Address
-  - IP address, etc.
+  - Any information that can identify a person:
+    - Name
+    - ID numbers
+    - Email
+    - Phone number
+    - Address
+    - IP address, etc.
+
+**3. Consent**
+  - Companies must get clear permission before collecting or using a person’s data.
+
+**4. Data Processing**
+  - Any action done to data—collecting, storing, sharing, or deleting.
+  It must be legal and transparent.
