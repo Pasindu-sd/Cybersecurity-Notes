@@ -40,3 +40,7 @@
 **7. Data Breach**
   - When data is leaked, stolen, or accessed without permission.
     Must be reported quickly (within 72 hours).
+
+---
+
+## Cybercrime and the law of the world
