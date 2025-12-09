@@ -126,3 +126,7 @@
   - **1. Unauthorized Access**
     - Accessing a computer, network, email, or data without permission is an offence.
     - *Example:* Hacking someone’s account.
+
+  - **2. Unauthorized Modification of Data**
+    - Changing, deleting, or altering data without authority.
+    - *Example:* Editing a database or website without permission.
