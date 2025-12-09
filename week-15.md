@@ -146,3 +146,6 @@
   - **6. Computer-Related Fraud**
     - Using computers to commit fraud or deception.
     - *Example:* Online banking fraud, phishing scams.
+
+  - **7. Identity Theft**
+    - Using another person’s identity or creating fake digital identities for illegal activity.
