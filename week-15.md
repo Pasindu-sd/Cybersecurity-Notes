@@ -71,3 +71,10 @@
     - Limit data access only to authorized personnel.
     - Example: Developers should not have full database admin rights.
     - Principles: Least Privilege, Need-to-Know.
+
+  - **2. Encryption**
+  Protect data in transit and at rest.
+    - Example:
+      - Use HTTPS/TLS for websites.
+      - Store passwords using bcrypt hashing.
+      - Encrypt backups with AES/GPG.
