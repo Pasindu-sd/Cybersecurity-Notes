@@ -260,4 +260,5 @@ Below is a detailed review of each certification:
 - [Week 12 - Popular certification reviews (Security+, CEH, OSCP)](week-12.md)
 - [Week 13 - Bug Bounty](week-13.md)
 - [Week 14 - Threat Hunting Basic, ELK Stack, Splunk Analysis, Threat Detection in SIEM](week-14.md)
+- [Week 15 - GDPR Basic Concepts, Cybercrime and the law of the world, Information Security Principles, Sri Lankan Cyber ​​Laws](week-15.md)
 
