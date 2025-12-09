@@ -219,7 +219,40 @@ Below is a detailed review of each certification:
 
 ---
 
-## 📅 Week 15 - 
+## 📅 Week 15 - GDPR Basic Concepts, Cybercrime and the law of the world, Information Security Principles, Sri Lankan Cyber ​​Laws
+- GDPR
+  - Protect personal data.
+  - Need consent to collect data.
+  - People can access/delete their data.
+  - Report data breaches in 72 hours.
+
+Cybercrime (World)
+
+Crimes: hacking, phishing, fraud, malware.
+
+Laws protect data, money, children, systems.
+
+Punishments: fines + jail.
+
+Information Security
+
+Limit access.
+
+Use encryption.
+
+Log activities.
+
+Use strong passwords + MFA.
+
+Keep data only when needed.
+
+Sri Lankan Cyber Laws (2007 Act)
+
+Illegal: hacking, data change, data leaks, fraud.
+
+Police can investigate & seize devices.
+
+Penalty: heavy fines + jail.
 
 ---
 
