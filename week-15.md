@@ -1,4 +1,4 @@
-# 🛡️ GDPR Basic Concepts, Cybercrime and the law of the world
+# 🛡️ GDPR Basic Concepts, Cybercrime and the law of the world, Information Security Principles
 
 ---
 
