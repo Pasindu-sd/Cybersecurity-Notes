@@ -142,3 +142,7 @@
   - **5. Unauthorized Disclosure of Information**
     - Revealing, copying, or distributing confidential data without permission.
     - *Example:* Leaking customer or government data.
+
+  - **6. Computer-Related Fraud**
+    - Using computers to commit fraud or deception.
+    - *Example:* Online banking fraud, phishing scams.
