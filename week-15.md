@@ -130,3 +130,7 @@
   - **2. Unauthorized Modification of Data**
     - Changing, deleting, or altering data without authority.
     - *Example:* Editing a database or website without permission.
+
+  - **3. Unauthorized Use of Computer Services**
+    - Using computer systems or services without valid authorization.
+    - *Example:* Using cracked software or bypassing paid services.
