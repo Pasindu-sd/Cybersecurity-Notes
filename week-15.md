@@ -134,3 +134,7 @@
   - **3. Unauthorized Use of Computer Services**
     - Using computer systems or services without valid authorization.
     - *Example:* Using cracked software or bypassing paid services.
+
+  - **4. Unauthorized Obstruction**
+    - Disrupting or damaging computer systems or networks.
+    - *Example:* DDoS attacks, spreading malware.
