@@ -219,6 +219,10 @@ Below is a detailed review of each certification:
 
 ---
 
+## 📅 Week 15 - 
+
+---
+
 ## 📚 Weekly Notes
 - [Week 1 - Introduction to Cybersecurity](week-01.md)
 - [Week 2 - Linux & Networking Basics](week-02.md)
