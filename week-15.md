@@ -83,3 +83,7 @@
   Collect only the data you actually need.
     - *Example:* Asking for only email + name for a signup form.
     - Avoid unnecessary data like NIC, home address, etc.
+
+  - **4. Logging & Monitoring**
+  Keep secure logs to detect suspicious activity.
+    - *Example:* Failed login logs, access logs, audit trails.
