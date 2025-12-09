@@ -22,3 +22,11 @@
 **4. Data Processing**
   - Any action done to data—collecting, storing, sharing, or deleting.
   It must be legal and transparent.
+
+**5. Individual Rights**
+  - People have rights over their data, such as:
+      - Access their data
+      - Correct it
+      - Delete it (“right to be forgotten”)
+      - Limit use
+      - Move it to another service (data portability)
