@@ -149,3 +149,6 @@
 
   - **7. Identity Theft**
     - Using another person’s identity or creating fake digital identities for illegal activity.
+
+  - **8. Illegal Content**
+    - Creating, storing, or distributing prohibited or harmful digital content.
