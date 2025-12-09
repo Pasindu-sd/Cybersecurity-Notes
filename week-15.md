@@ -106,3 +106,7 @@
   - **8. Physical Security**
   Protect physical access to critical systems.
     - *Example:* Server rooms with access cards, CCTV, locked cabinets.
+
+  - **9. Vendor/Third-Party Security**
+  Verify external services meet security standards.
+    - *Example:* Cloud provider or payment gateway with ISO 27001/PCI-DSS compliance.
