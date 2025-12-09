@@ -44,3 +44,24 @@
 ---
 
 ## Cybercrime and the law of the world
+
+  ### Common types:
+  - Hacking – accessing systems without permission
+  - Phishing – fake emails/SMS to steal information
+  - Online fraud – money scams, fake shopping sites
+  - Cyberbullying / harassment
+  - Identity theft – using someone’s personal data
+  - Malware attacks – viruses, ransomware
+  - Data breaches – stealing sensitive data
+
+  ### Cyber laws are rules created to protect people, data, and online systems from misuse
+  - They cover:
+    - Data privacy
+    - Computer crimes
+    - Online transactions & e-commerce
+    - Cybersecurity regulations
+    - Intellectual property (copyright)
+    - Child protection online
+    - Online defamation / fake news
+
+---
