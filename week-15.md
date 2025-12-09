@@ -65,3 +65,5 @@
     - Online defamation / fake news
 
 ---
+
+## Information Security Principles (Practical Examples) ISO 27001 Basics
