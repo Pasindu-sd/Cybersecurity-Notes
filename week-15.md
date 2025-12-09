@@ -158,3 +158,9 @@
         - Search and seize computers
         - Collect digital evidence
         - Obtain warrants
+
+  - **10. Penalties**
+    - Depending on the offence:
+        - Fines (up to several million LKR)
+        - Imprisonment
+        - Or both
